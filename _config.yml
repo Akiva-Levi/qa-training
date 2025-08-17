@@ -1,0 +1,9 @@
+title: QA Training
+description: HTML fundamentals and training materials
+baseurl: "/qa-training"
+url: "https://akiva-levi.github.io" 
+# Redirect configuration
+redirects:
+  - from: /
+    to: /html%20fundamentals/example.html
+    status: 301 
